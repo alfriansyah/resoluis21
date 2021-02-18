@@ -1,2 +1,4 @@
 1. belajar codeignitter
 2. buat portofolio
+3. upload portofolio ke github
+4. upload portofolio ke hosting 
