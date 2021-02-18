@@ -2,4 +2,4 @@
 2. buat portofolio
 3. upload portofolio ke github
 4. upload portofolio ke hosting 
-5. ngelamar kerja
+5. ngelamar kerja di nusanet
