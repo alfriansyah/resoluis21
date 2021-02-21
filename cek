@@ -2,3 +2,5 @@ cek exsistensi username dgn ajak
 return dalam j.con
 olah data ke model
 return to home
+redirec to home dan tampilkan data
+
