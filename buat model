@@ -1,5 +1,5 @@
 inisialisasi loader database
 buat function construct
 olah data
-return value ke controller
+return value ke controller dengan array
 tampilkan view 
