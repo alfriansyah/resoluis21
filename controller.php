@@ -23,5 +23,10 @@
     {
       return "penghapusna data berhasil";
     }
+
+    public function edit(Type $var = null)
+    {
+      echo "edit";
+    }
   
   }
