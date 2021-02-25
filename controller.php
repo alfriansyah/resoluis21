@@ -17,5 +17,11 @@
     {
       return "tambah data diri";
     }
+
+    //  hapus 
+    public function hapus(Type $var = null)
+    {
+      return "penghapusna data berhasil";
+    }
   
   }
