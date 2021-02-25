@@ -6,4 +6,9 @@
       return 'hello world';
     }
     
+    // // default index 
+    public function index(Type $var = null){}
+    {
+      return "halaman utama";
+    }
   }
