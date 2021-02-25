@@ -1,8 +1,9 @@
 cek exsistensi username dgn ajak
 return dalam j.con
 olah data ke model
-create session
+create session 
 return to home
-redirec to home dan tampilkan data untuk front
+redirec to home dan tampilkan data 
+inssert ke table
 
 
