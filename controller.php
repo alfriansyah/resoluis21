@@ -11,4 +11,10 @@
     {
       return "halaman utama";
     }
+    
+    // // default tambha data 
+    public function tambah(Type $var = null){}
+    {
+      return "tambah data diri";
+    }
   }
