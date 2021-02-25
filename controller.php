@@ -26,7 +26,7 @@
 
     public function edit(Type $var = null)
     {
-      echo "edit";
+      echo "edit perubahan";
     }
   
   }
